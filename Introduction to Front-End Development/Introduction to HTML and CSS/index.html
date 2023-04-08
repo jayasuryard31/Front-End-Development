@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>jai</title>
+    </head>
+    <body>
+        <h1>Our menu</h1>
+        <h2>Falafel</h2>
+        <p>Chickpea, Herbs, and spices</p>
+        <img src="image/falafel.jpeg" width="240" height="135" alt="A falafel">
+        <h2>Pasta Salad</h2>
+        <p>Lettuce, vegetables and mozzarella</em></p>
+        <img src="image/salad.jpeg" width="240" height="135" alt="A Pasta salad">
+        <a href="location.html">Our location</a>
+        <style>
+            table, th,td{
+                border: 1px solid black;
+                border-collapse: collapse;
+            }
+        </style>
+        <table>
+            <tr>
+                <th>Dish</th>
+                <th>Price</th>
+            </tr>
+            <tr>
+                <td>Falafel</td>
+                <td>$10.00</td>
+            </tr>
+            <tr>
+                <td>Pasta Salad</td>
+                <td>$12.00</td>
+            </tr>
+        </table>
+        <form action="/registration" method="POST">
+            <label for="username">Username:</label><br>
+            <input type="text" name="username"/><br>
+            <label for="password">Password:</label><br>
+            <input type="password"/><br>
+            <input type="submit"/>
+        </form>
+    </body>
+</html>
