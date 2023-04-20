@@ -10,3 +10,4 @@ This GitHub repository is a one-stop-shop for learners, containing all necessary
 Some of the main keywords associated with this program include front-end development, web development, HTML5, CSS, JavaScript, design skills, GitHub, version control, content management systems, Figma, and technical interviews.
 
 Start your journey towards a rewarding career in web development with the Meta Professional Certificate for Front-End Development. Sign up now and gain the skills you need to succeed!
+  
